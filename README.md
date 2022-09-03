@@ -1,2 +1,2 @@
-# LDAW_Labs
-Actividades de la materia Laboratorio de Desarrollo de Aplicaciones Web
+# LDAW Labs
+Actividades para la materia Laboratorio de Desarrollo de Aplicaciones Web
